@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 :root{
-    --green: rgb(237 54 54);
+    --green: rgb(1, 163, 14);
 }
 
 *{
@@ -103,7 +103,7 @@ header .navbar a:hover{
     padding:1rem 1.5rem;
     border-radius: .5rem;
     color:#fff;
-    background: rgb(237 54 54);
+    background: rgb(22, 190, 162);
     cursor: pointer;
     font-size: 3rem;
     display: none;
