@@ -7,3 +7,6 @@ The website has been created.
 https://8thcoder.github.io/portfoliotrial/
 
 I just moved the file location in my local computer
+
+Woah now i just made some changes through codespaces provided by github. I think no more required.
+Thanks and have a nice day :)
