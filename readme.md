@@ -7,3 +7,5 @@ The website has been created.
 https://8thcoder.github.io/portfoliotrial/
 
 I just moved the file location in my local computer
+
+lmao hi
